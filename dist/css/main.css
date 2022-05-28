@@ -1119,9 +1119,10 @@ header .seperator-skew svg .fill-white {
 }
 .avatar {
   vertical-align: middle;
-  width: 250px;
-  height: 220px;
-  border-radius: 70%;
+  width: 300px;
+  height: 300px;
+  border-radius:50%;
+ 
 }
 #baniere{
   height:taille_fixe px;
