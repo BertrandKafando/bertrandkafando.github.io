@@ -766,17 +766,24 @@ header .seperator-skew svg .fill-white {
   .project-left {
     min-height: 200px;
   }
+  .avatarlogo{
+    display: none;
+  }
 }
 
 @media screen and (min-width: 501px) and (max-width: 700px) {
   .project-left {
     min-height: 300px;
   }
+ 
 }
 
 @media screen and (min-width: 701px) and (max-width: 859px) {
   .project-left {
     min-height: 350px;
+  }
+  .avatarlogo{
+    display: none;
   }
 }
 
